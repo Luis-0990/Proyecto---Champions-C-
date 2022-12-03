@@ -1,0 +1,193 @@
+    1eros Partidos 
+   	Grupo A
+		Nombre: Japon
+		Goles: 1
+		Cambios de jugadores: 2
+		Expulsados: 3
+		......................
+
+		Nombre: Canada
+		Goles: 4
+		Cambios de jugadores: 5
+		Expulsados: 6
+		......................
+   	Grupo B
+		Nombre: Estados U.
+		Goles: 7
+		Cambios de jugadores: 8
+		Expulsados: 9
+		......................
+
+		Nombre: Mexico
+		Goles: 0
+		Cambios de jugadores: 9
+		Expulsados: 8
+		......................
+   	Grupo C
+		Nombre: Ecuador
+		Goles: 7
+		Cambios de jugadores: 6
+		Expulsados: 5
+		......................
+
+		Nombre: Bolivia
+		Goles: 4
+		Cambios de jugadores: 3
+		Expulsados: 2
+		......................
+   	Grupo D
+		Nombre: Chile
+		Goles: 1
+		Cambios de jugadores: 2
+		Expulsados: 3
+		......................
+
+		Nombre: Argentina
+		Goles: 4
+		Cambios de jugadores: 5
+		Expulsados: 6
+		......................
+   	Grupo E
+		Nombre: Brasil
+		Goles: 7
+		Cambios de jugadores: 8
+		Expulsados: 9
+		......................
+
+		Nombre: Portugal
+		Goles: 8
+		Cambios de jugadores: 7
+		Expulsados: 5
+		......................
+   	Grupo F
+		Nombre: Hungria
+		Goles: 5
+		Cambios de jugadores: 43
+		Expulsados: 2
+		......................
+
+		Nombre: Irak
+		Goles: 1
+		Cambios de jugadores: 4
+		Expulsados: 5
+		......................
+   	Grupo G
+		Nombre: Inglaterra
+		Goles: 4
+		Cambios de jugadores: 5
+		Expulsados: 345
+		......................
+
+		Nombre: Francia
+		Goles: 6
+		Cambios de jugadores: 4
+		Expulsados: 6
+		......................
+   	Grupo H
+		Nombre: Italia
+		Goles: 4
+		Cambios de jugadores: 3
+		Expulsados: 5
+		......................
+
+		Nombre: Alemania
+		Goles: 4
+		Cambios de jugadores: 665
+		Expulsados: 5
+		......................
+
+		------------------------------------
+    2dos Partidos 
+   	Grupo A
+		Nombre: Canada
+		Goles: 3
+		Cambios de jugadores: 4
+		Expulsados: 5
+		......................
+
+		Nombre: Estados U.
+		Goles: 6
+		Cambios de jugadores: 7
+		Expulsados: 7
+		......................
+   	Grupo B
+		Nombre: Ecuador
+		Goles: 8
+		Cambios de jugadores: 9
+		Expulsados: 90
+		......................
+
+		Nombre: Argentina
+		Goles: 1
+		Cambios de jugadores: 2
+		Expulsados: 3
+		......................
+   	Grupo C
+		Nombre: Portugal
+		Goles: 4
+		Cambios de jugadores: 5
+		Expulsados: 6
+		......................
+
+		Nombre: Hungria
+		Goles: 7
+		Cambios de jugadores: 8
+		Expulsados: 8
+		......................
+   	Grupo D
+		Nombre: Francia
+		Goles: 0
+		Cambios de jugadores: 9
+		Expulsados: 98
+		......................
+
+		Nombre: Alemania
+		Goles: 7
+		Cambios de jugadores: 6
+		Expulsados: 5
+		......................
+
+		------------------------------------
+    -SEMIFINALES- 
+   	Grupo A
+		Nombre: Estados U.
+		Goles: 54
+		Cambios de jugadores: 3
+		Expulsados: 3
+		......................
+
+		Nombre: Ecuador
+		Goles: 4
+		Cambios de jugadores: 4
+		Expulsados: 6
+		......................
+   	Grupo B
+		Nombre: Hungria
+		Goles: 7
+		Cambios de jugadores: 7
+		Expulsados: 8
+		......................
+
+		Nombre: Alemania
+		Goles: 89
+		Cambios de jugadores: 9
+		Expulsados: 2
+		......................
+
+		------------------------------------
+    	=FINAL=
+
+		Nombre: Estados U.
+		Goles: 3
+		Cambios de jugadores: 4
+		Expulsados: 5
+		......................
+
+		Nombre: Alemania
+		Goles: 2
+		Cambios de jugadores: 3
+		Expulsados: 4
+		......................
+
+		.GANADOR.
+   		=Estados U.=

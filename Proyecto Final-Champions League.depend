@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620278386 source:c:\users\dian\desktop\luis ibero\2 semestre-ibero\estructuras de datos\alconedojoseluis\proyecto\proyecto final-champions league\main.cpp
+	<iostream>
+	<fstream>
+	"Funciones_Champion.h"
+
+1669506174 c:\users\dian\desktop\luis ibero\2 semestre-ibero\estructuras de datos\alconedojoseluis\proyecto\proyecto final-champions league\funciones_champion.h
+
